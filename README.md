@@ -1,1 +1,1 @@
-"Actualización desde GitHub"
+Actualización desde GitHub
